@@ -5,5 +5,5 @@
   "description": "Overlays a custom string on the Firefox icon",
   "author": "evacchi",
   "license": "MPL 2.0",
-  "version": "0.1"
+  "version": "0.1.1"
 }
