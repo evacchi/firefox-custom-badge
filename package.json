@@ -1,8 +1,8 @@
 {
-  "name": "profile-badge",
-  "title": "profile-badge",
+  "name": "custom-badge",
+  "title": "custom-badge",
   "id": "jid1-4h1wBnodPITcZA",
-  "description": "overlays your profile ID on the firefox icon",
+  "description": "Overlays a custom string on the Firefox icon",
   "author": "evacchi",
   "license": "MPL 2.0",
   "version": "0.1"
